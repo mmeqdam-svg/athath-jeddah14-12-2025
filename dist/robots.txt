@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login
+
+Sitemap: https://www.athath-jeddah-sa.com/sitemap.xml
+Host: https://www.athath-jeddah-sa.com
